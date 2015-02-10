@@ -6,7 +6,6 @@ class Test {
 
   def SuperMethod = ???
 
-  def CANUHEARME = ???
 
   def + = ???
 
