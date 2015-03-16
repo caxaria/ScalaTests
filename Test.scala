@@ -14,6 +14,8 @@ class Test {
 
 }
 
+// random padding here
+
 object Test {}
 
 object Test2 {}
