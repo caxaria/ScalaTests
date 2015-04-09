@@ -1,6 +1,8 @@
 class Test {
 
   def method1 = ???
+  
+  def method2 = ???
 
   def myMethod = ???
 
@@ -10,7 +12,6 @@ class Test {
 
   def + = ???
 
-  def |> = ??? 
 
 }
 
